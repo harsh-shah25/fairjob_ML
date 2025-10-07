@@ -1,0 +1,1 @@
+{"weighted_precision":0.989374637399189,"weighted_f1_score":0.9312765100508951,"roc_auc":0.8125087334700605,"_runtime":38,"_step":0,"_timestamp":1.7597674014903939e+09,"weighted_recall":0.8827613140898599,"_wandb":{"runtime":38},"accuracy":0.8827613140898599}

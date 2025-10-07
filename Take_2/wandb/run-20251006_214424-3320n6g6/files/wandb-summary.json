@@ -1,0 +1,1 @@
+{"_runtime":29,"roc_auc":0.8125087334700605,"_timestamp":1.759767294998867e+09,"_wandb":{"runtime":29},"_step":0,"weighted_recall":0.8827613140898599,"accuracy":0.8827613140898599,"weighted_precision":0.989374637399189,"weighted_f1_score":0.9312765100508951}

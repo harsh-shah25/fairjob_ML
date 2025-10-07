@@ -1,0 +1,36 @@
+2025-10-06 21:25:22,660 INFO    MainThread:23160 [wandb_setup.py:_flush():81] Current SDK version is 0.22.1
+2025-10-06 21:25:22,660 INFO    MainThread:23160 [wandb_setup.py:_flush():81] Configure stats pid to 23160
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_setup.py:_flush():81] Loading settings from C:\Users\2502h\.config\wandb\settings
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_setup.py:_flush():81] Loading settings from c:\Users\2502h\01_ML_Project\Take_2\wandb\settings
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:setup_run_log_directory():705] Logging user logs to c:\Users\2502h\01_ML_Project\Take_2\wandb\run-20251006_212522-cewabjip\logs\debug.log
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to c:\Users\2502h\01_ML_Project\Take_2\wandb\run-20251006_212522-cewabjip\logs\debug-internal.log
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:monkeypatch_ipython():624] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024DCE5E9430>
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:init():832] calling init triggers
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200, 'subsample': 0.8, 'colsample_bytree': 0.8, 'random_state': 42, 'eval_metric': 'logloss', 'n_jobs': -1, 'scale_pos_weight': np.float64(142.17810048405943), '_wandb': {}}
+2025-10-06 21:25:22,661 INFO    MainThread:23160 [wandb_init.py:init():880] starting backend
+2025-10-06 21:25:25,158 INFO    MainThread:23160 [wandb_init.py:init():883] sending inform_init request
+2025-10-06 21:25:25,222 INFO    MainThread:23160 [wandb_init.py:init():891] backend started and connected
+2025-10-06 21:25:25,231 INFO    MainThread:23160 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-10-06 21:25:25,249 INFO    MainThread:23160 [wandb_init.py:init():961] updated telemetry
+2025-10-06 21:25:25,284 INFO    MainThread:23160 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout
+2025-10-06 21:25:26,569 INFO    MainThread:23160 [wandb_init.py:init():1036] starting run threads in backend
+2025-10-06 21:25:26,820 INFO    MainThread:23160 [wandb_run.py:_console_start():2506] atexit reg
+2025-10-06 21:25:26,820 INFO    MainThread:23160 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-10-06 21:25:26,820 INFO    MainThread:23160 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-10-06 21:25:26,820 INFO    MainThread:23160 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-10-06 21:25:26,826 INFO    MainThread:23160 [wandb_init.py:init():1076] run started, returning control to user process
+2025-10-06 21:26:13,544 INFO    MainThread:23160 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-06 21:27:16,818 INFO    MainThread:23160 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-06 21:27:16,818 INFO    MainThread:23160 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-06 21:27:16,819 INFO    MainThread:23160 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-06 21:27:25,627 INFO    MainThread:23160 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-06 21:27:25,627 INFO    MainThread:23160 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-06 21:27:25,709 INFO    MainThread:23160 [wandb_run.py:_finish():2272] finishing run 2502harshshah-international-institute-of-information-tec/xgboost-demo/cewabjip
+2025-10-06 21:27:25,712 INFO    MainThread:23160 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-10-06 21:27:25,712 INFO    MainThread:23160 [wandb_init.py:_jupyter_teardown():609] cleaning up jupyter logic
+2025-10-06 21:27:25,712 INFO    MainThread:23160 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-10-06 21:27:25,712 INFO    MainThread:23160 [wandb_run.py:_restore():2453] restore
+2025-10-06 21:27:25,714 INFO    MainThread:23160 [wandb_run.py:_restore():2459] restore done
+2025-10-06 21:27:27,210 INFO    MainThread:23160 [wandb_run.py:_footer_sync_info():3869] logging synced files

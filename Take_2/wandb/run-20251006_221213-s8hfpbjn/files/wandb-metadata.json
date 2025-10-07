@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.9",
+  "startedAt": "2025-10-06T16:42:13.298630Z",
+  "program": "c:\\Users\\2502h\\01_ML_Project\\Take_2\\preprocessing.ipynb",
+  "codePath": "Take_2\\preprocessing.ipynb",
+  "codePathLocal": "preprocessing.ipynb",
+  "git": {
+    "remote": "https://github.com/harsh-shah25/fairjob_ML.git",
+    "commit": "ec442e0d77a938dbd2c7e27eb1457ec51481aca3"
+  },
+  "email": "2502harshshah@gmail.com",
+  "root": "c:\\Users\\2502h\\01_ML_Project\\Take_2",
+  "host": "Lappy",
+  "executable": "c:\\Users\\2502h\\anaconda3\\envs\\fairjob\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "187041837056",
+      "used": "177332822016"
+    }
+  },
+  "memory": {
+    "total": "16835264512"
+  },
+  "writerId": "yhvpqokwdn7p53eopnc3prsusbwzg77z"
+}
